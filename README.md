@@ -3,7 +3,7 @@
 > Бесплатный помощник для водителей такси: оценивает заказ, рассчитывает минимально выгодную цену и показывает результат поверх Яндекс Про.
 
 [![Последняя версия](https://img.shields.io/github/v/release/dictovod/DriverRadarFree?label=версия&color=168aad)](https://github.com/dictovod/DriverRadarFree/releases/latest)
-![Android 10+](https://img.shields.io/badge/Android-10%2B-3ddc84)
+![Android 9+](https://img.shields.io/badge/Android-9%2B-3ddc84)
 ![Бесплатно](https://img.shields.io/badge/доступ-бесплатный-22c55e)
 ![Без подписки](https://img.shields.io/badge/подписка-не%20нужна-0ea5e9)
 
@@ -15,11 +15,15 @@
 
 ## Скачать приложение
 
-### [Скачать актуальный APK](https://github.com/dictovod/DriverRadarFree/releases/latest/download/DriverRadarFree_0.2.1-release.apk)
+### [Скачать актуальный APK](https://github.com/dictovod/DriverRadarFree/releases/latest/download/DriverRadarFree_0.2.2-release.apk)
 
-- Текущая версия: **0.2.1**
-- Поддерживается: **Android 10 и новее**
-- Размер APK: около **1,9 МБ**
+- Текущая версия: **0.2.2**
+- Поддерживается: **Android 9 и новее**
+- Размер APK: около **1,95 МБ**
+
+### Что нового в 0.2.2
+
+Добавлена поддержка Android 9. Отдельная «старая» сборка не нужна: один и тот же APK работает на Android 9, 10 и более новых версиях. Расширение совместимости увеличило файл всего на 32 КБ.
 
 ### Что исправлено в 0.2.1
 
@@ -100,10 +104,10 @@
 
 ## Проверка скачанного файла
 
-SHA-256 файла `DriverRadarFree_0.2.1-release.apk`:
+SHA-256 файла `DriverRadarFree_0.2.2-release.apk`:
 
 ```text
-9b1a5bccabbdfd50c918e1baecae55ee7ba646e2c23a271f959a3f082c0ffd4b
+96e2938c44b15c6bfcb4ad6558ea52864b343a385fe5fc782fea371b9fcba77c
 ```
 
 SHA-256 сертификата подписи:
